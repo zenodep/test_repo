@@ -6,4 +6,4 @@
 
 # I have made a change from the remote repository!
 
---> New change from the local repository
+--> New change from the local repository!
